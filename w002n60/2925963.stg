@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Airport/ndb.ac -1.249267 60.18873 19 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.225041 60.206564 78.37 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.212287 60.156025 155.99 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.169747 60.247131 53.2 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.153117 60.202057 6.68 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.096703 60.129966 0 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.076986 60.184237 0 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.004662 60.139759 20.09 180
+OBJECT_SHARED Models/Power/windturbine.xml -1.2361111 60.1647222 119.86 180
+OBJECT_SHARED Models/Power/windturbine.xml -1.2360953 60.1647711 119.88 180
+OBJECT_SHARED Models/Power/windturbine.xml -1.2341888 60.1630628 116.18 180
+OBJECT_SHARED Models/Power/windturbine.xml -1.2320756 60.165592 109.1 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -1.0945361 60.1302837 -296.83 180
+OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -1.14006 60.15395 0 160
