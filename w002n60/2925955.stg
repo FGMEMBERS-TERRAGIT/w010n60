@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.208474 60.085981 20.51 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.174321 60.040606 16.89 180
+OBJECT_STATIC Bressay_Lighthouse.xml -1.12002024 60.1199972 13.68 0
+OBJECT_STATIC Bressay_Lighthouse_Fog_Horn.ac -1.12038493 60.1200849 8.27 84
+OBJECT_STATIC Bressay_Lighthouse_Building_1.ac -1.12008471 60.1201707 13.62 88
+OBJECT_STATIC Bressay_Lighthouse_Building_2.ac -1.12041047 60.1202692 8.91 88
+OBJECT_STATIC Bressay_Lighthouse_Building_3.ac -1.12019555 60.1203636 12.92 88
+OBJECT_STATIC Bressay_Lighthouse_Building_4.ac -1.12038986 60.12051 10.61 88
