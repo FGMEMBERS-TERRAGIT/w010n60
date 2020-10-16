@@ -3,3 +3,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -1.3926 60.29007 75.71 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.297515 60.297639 274.44 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.297175 60.348907 216.43 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.2605483 60.3531238 0.87 180
+OBJECT_SHARED Models/Maritime/Civilian/Trent_Lifeboat.xml -1.375126 60.285738 0.05 0
